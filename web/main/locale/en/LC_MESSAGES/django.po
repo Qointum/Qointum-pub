@@ -1,0 +1,862 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-18 16:58-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main/models.py:40
+msgid "Subscribe to promotions newsletter"
+msgstr ""
+
+#: main/models.py:43
+msgid "Receive email from Qointum about new products and special offers."
+msgstr ""
+
+#: main/templates/account/base_settings.html:22
+#: main/templates/allauth/account/email.html:5
+#: main/templates/allauth/account/email.html:6
+msgid "E-mail Addresses"
+msgstr ""
+
+#: main/templates/account/base_settings.html:25
+#: main/templates/allauth/account/password_change.html:5
+#: main/templates/allauth/account/password_change.html:6
+#: main/templates/allauth/account/password_change.html:14
+#: main/templates/allauth/account/password_reset_from_key.html:5
+#: main/templates/allauth/account/password_reset_from_key.html:6
+#: main/templates/allauth/account/password_reset_from_key.html:18
+#: main/templates/allauth/account/password_reset_from_key_done.html:3
+#: main/templates/allauth/account/password_reset_from_key_done.html:4
+msgid "Change Password"
+msgstr ""
+
+#: main/templates/account/base_settings.html:28
+#: main/templates/allauth/socialaccount/connections.html:4
+#: main/templates/allauth/socialaccount/connections.html:5
+msgid "Connected Accounts"
+msgstr ""
+
+#: main/templates/account/base_settings.html:31
+#: main/templates/avatar/change.html:6 main/templates/avatar/change.html:7
+msgid "Avatar"
+msgstr ""
+
+#: main/templates/account/base_settings.html:34
+#: main/templates/account/subscriptions.html:5
+#: main/templates/account/subscriptions.html:6
+msgid "Subscriptions"
+msgstr ""
+
+#: main/templates/account/subscriptions.html:14
+msgid "Save"
+msgstr ""
+
+#: main/templates/allauth/account/account_inactive.html:4
+#: main/templates/allauth/account/account_inactive.html:5
+msgid "Account Inactive"
+msgstr ""
+
+#: main/templates/allauth/account/account_inactive.html:8
+msgid "This account is inactive."
+msgstr ""
+
+#: main/templates/allauth/account/account_inactive.html:9
+#: main/templates/allauth/account/password_reset_done.html:14
+#: main/templates/allauth/account/verification_sent.html:9
+msgid "Close"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:12
+msgid "The following e-mail addresses are associated with your account:"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:20
+msgid "E-mail"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:23
+msgid "Status"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:38
+msgid "Verified"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:40
+msgid "Unverified"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:42
+msgid "Primary"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:50
+msgid "Make Primary"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:51
+msgid "Re-send Verification"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:52
+#: main/templates/allauth/socialaccount/connections.html:55
+msgid "Remove"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:57
+msgid "Warning:"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:57
+msgid ""
+"You currently do not have any e-mail address set up. You should really add "
+"an e-mail address so you can receive notifications, reset your password, etc."
+msgstr ""
+
+#: main/templates/allauth/account/email.html:61
+msgid "Add E-mail Address"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:67
+msgid "Add E-mail"
+msgstr ""
+
+#: main/templates/allauth/account/email.html:76
+msgid "Do you really want to remove the selected e-mail address?"
+msgstr ""
+
+#: main/templates/allauth/account/email/password_reset_key_message.txt:1
+#, python-format
+msgid ""
+"You're receiving this e-mail because you or someone else has requested a "
+"password for your user account at %(site_name)s.\n"
+"It can be safely ignored if you did not request a password reset. Click the "
+"link below to reset your password."
+msgstr ""
+
+#: main/templates/allauth/account/email/password_reset_key_message.txt:6
+#, python-format
+msgid "In case you forgot, your username is %(username)s."
+msgstr ""
+
+#: main/templates/allauth/account/email/password_reset_key_message.txt:8
+msgid "Thanks for using our site!"
+msgstr ""
+
+#: main/templates/allauth/account/email_confirm.html:5
+#: main/templates/allauth/account/email_confirm.html:6
+#: main/templates/allauth/account/email_confirmed.html:5
+#: main/templates/allauth/account/email_confirmed.html:6
+msgid "Confirm E-mail Address"
+msgstr ""
+
+#: main/templates/allauth/account/email_confirm.html:13
+#, python-format
+msgid ""
+"Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
+"address for user %(user_display)s."
+msgstr ""
+
+#: main/templates/allauth/account/email_confirm.html:17
+msgid "Confirm"
+msgstr ""
+
+#: main/templates/allauth/account/email_confirm.html:24
+#, python-format
+msgid ""
+"This e-mail confirmation link expired or is invalid. Please <a href="
+"\"%(email_url)s\">issue a new e-mail confirmation request</a>."
+msgstr ""
+
+#: main/templates/allauth/account/email_confirmed.html:11
+#, python-format
+msgid ""
+"You have confirmed that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-"
+"mail address for user %(user_display)s."
+msgstr ""
+
+#: main/templates/allauth/account/login.html:6
+#: main/templates/allauth/account/login.html:7
+#: main/templates/allauth/account/login.html:29
+#: main/templates/allauth/openid/login.html:12
+msgid "Sign In"
+msgstr ""
+
+#: main/templates/allauth/account/login.html:12
+msgid ""
+"Please either <strong>Sign In</strong> with one of your third-party accounts:"
+msgstr ""
+
+#: main/templates/allauth/account/login.html:18
+msgid "OR"
+msgstr ""
+
+#: main/templates/allauth/account/login.html:19
+#: main/templates/allauth/account/signup.html:6
+#: main/templates/allauth/account/signup.html:7
+#: main/templates/allauth/account/signup.html:21
+#: main/templates/allauth/socialaccount/signup.html:6
+#: main/templates/allauth/socialaccount/signup.html:7
+#: main/templates/allauth/socialaccount/signup.html:21
+msgid "Sign Up"
+msgstr ""
+
+#: main/templates/allauth/account/login.html:19
+msgid "directly with us and then <strong>Sign In</strong> below:"
+msgstr ""
+
+#: main/templates/allauth/account/login.html:31
+msgid "Forgot Password?"
+msgstr ""
+
+#: main/templates/allauth/account/password_reset.html:6
+#: main/templates/allauth/account/password_reset.html:7
+#: main/templates/allauth/account/password_reset_done.html:5
+#: main/templates/allauth/account/password_reset_done.html:6
+msgid "Password Reset"
+msgstr ""
+
+#: main/templates/allauth/account/password_reset.html:14
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll send you "
+"an e-mail allowing you to reset it."
+msgstr ""
+
+#: main/templates/allauth/account/password_reset.html:21
+msgid "Reset My Password"
+msgstr ""
+
+#: main/templates/allauth/account/password_reset.html:26
+msgid "Please contact us if you have any trouble resetting your password."
+msgstr ""
+
+#: main/templates/allauth/account/password_reset_done.html:13
+msgid ""
+"We have sent you an e-mail. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#: main/templates/allauth/account/password_reset_from_key.html:6
+msgid "Bad Token"
+msgstr ""
+
+#: main/templates/allauth/account/password_reset_from_key.html:11
+#, python-format
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
+"a>."
+msgstr ""
+
+#: main/templates/allauth/account/password_reset_from_key.html:22
+#: main/templates/allauth/account/password_reset_from_key_done.html:7
+msgid "Your password is now changed."
+msgstr ""
+
+#: main/templates/allauth/account/password_set.html:5
+#: main/templates/allauth/account/password_set.html:6
+#: main/templates/allauth/account/password_set.html:14
+msgid "Set Password"
+msgstr ""
+
+#: main/templates/allauth/account/signup.html:11
+#, python-format
+msgid ""
+"Already have an account? Then please <a href=\"%(login_url)s\">sign in</a>."
+msgstr ""
+
+#: main/templates/allauth/account/signup.html:24
+msgid "In order to use our services, you must agree to these terms."
+msgstr ""
+
+#: main/templates/allauth/account/signup.html:31
+#: main/templates/allauth/socialaccount/signup.html:29
+msgid ""
+"I agree to Qointum\\'s <a href=\"{}\" target=\"_blank\">Terms of Service</a> "
+"and <a href=\"{}\" target=\"_blank\">Privacy Policy</a>"
+msgstr ""
+
+#: main/templates/allauth/account/verification_sent.html:4
+#: main/templates/allauth/account/verification_sent.html:5
+msgid "Verify Your E-mail Address"
+msgstr ""
+
+#: main/templates/allauth/account/verification_sent.html:8
+msgid ""
+"We have sent an e-mail to you for verification. Follow the link provided to "
+"finalize the signup process. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#: main/templates/allauth/openid/login.html:5
+#: main/templates/allauth/openid/login.html:6
+msgid "OpenID Sign In"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/authentication_error.html:4
+#: main/templates/allauth/socialaccount/authentication_error.html:5
+msgid "Social Network Login Failure"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/authentication_error.html:8
+msgid ""
+"An error occurred while attempting to login via your social network account."
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:11
+msgid ""
+"You can sign in to your account using any of the following third-party "
+"accounts:"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:28
+msgid "Provider"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:31
+msgid "Account"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:61
+msgid "None!"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:61
+msgid ""
+"You currently have no social network accounts connected to this account."
+msgstr ""
+
+#: main/templates/allauth/socialaccount/connections.html:66
+msgid "Add a Third-Party Account"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/login_cancelled.html:4
+#: main/templates/allauth/socialaccount/login_cancelled.html:5
+msgid "Login Cancelled"
+msgstr ""
+
+#: main/templates/allauth/socialaccount/login_cancelled.html:8
+#, python-format
+msgid ""
+"You decided to cancel logging in to our site using one of your existing "
+"accounts. If this was a mistake, please proceed to <a href=\"%(login_url)s"
+"\">sign in</a>."
+msgstr ""
+
+#: main/templates/allauth/socialaccount/signup.html:11
+#, python-format
+msgid ""
+"You are about to use your %(provider_name)s account to login to \n"
+"%(site_name)s. As a final step, please complete the following form:"
+msgstr ""
+
+#: main/templates/avatar/change.html:12
+msgid "Your current avatar: "
+msgstr ""
+
+#: main/templates/avatar/change.html:15
+msgid "You haven't uploaded an avatar yet. Please upload one now."
+msgstr ""
+
+#: main/templates/avatar/change.html:17
+msgid "Choices"
+msgstr ""
+
+#: main/templates/avatar/change.html:24
+msgid "Set as Avatar"
+msgstr ""
+
+#: main/templates/avatar/change.html:25
+msgid "Remove All Selected"
+msgstr ""
+
+#: main/templates/avatar/change.html:26
+msgid "Select All"
+msgstr ""
+
+#: main/templates/avatar/change.html:31
+msgid "Upload Avatar"
+msgstr ""
+
+#: main/templates/avatar/change.html:34
+msgid "Upload New Image"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:6
+msgid "Knowledgebase Articles"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:9
+msgid "Knowledgebase Categories"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:11
+msgid "Category"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:27
+msgid "Submit a Ticket"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:28
+msgid "All fields are required."
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:28
+msgid "Please provide as descriptive a title and description as possible."
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:55
+msgid "Submit Ticket"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:66
+msgid "Please use button at upper right to login first."
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:73
+#: main/templates/helpdesk/public_view_form.html:4
+msgid "View a Ticket"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:78
+#: main/templates/helpdesk/public_view_form.html:12
+msgid "Ticket"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:82
+#: main/templates/helpdesk/public_view_form.html:15
+msgid "Your E-mail Address"
+msgstr ""
+
+#: main/templates/helpdesk/public_homepage.html:86
+#: main/templates/helpdesk/public_view_form.html:19
+msgid "View Ticket"
+msgstr ""
+
+#: main/templates/helpdesk/public_view_form.html:8
+msgid "Error:"
+msgstr ""
+
+#: main/templates/main/base.html:53 main/templates/main/base.html.py:135
+msgid "Sign In / Up"
+msgstr ""
+
+#: main/templates/main/base.html:66
+msgid "News"
+msgstr ""
+
+#: main/templates/main/base.html:68 main/templates/main/home.html:343
+msgid "Blog News"
+msgstr ""
+
+#: main/templates/main/base.html:69
+msgid "Press"
+msgstr ""
+
+#: main/templates/main/base.html:73
+msgid "Pledge"
+msgstr ""
+
+#: main/templates/main/base.html:75
+msgid "Design"
+msgstr ""
+
+#: main/templates/main/base.html:80
+msgid "Wallet"
+msgstr ""
+
+#: main/templates/main/base.html:80 main/templates/main/home.html:184
+msgid "(coming soon)"
+msgstr ""
+
+#: main/templates/main/base.html:87 main/templates/main/base.html.py:111
+msgid "Community"
+msgstr ""
+
+#: main/templates/main/base.html:89 main/templates/main/base.html.py:112
+msgid "Blog"
+msgstr ""
+
+#: main/templates/main/base.html:90 main/templates/main/base.html.py:113
+msgid "Forum"
+msgstr ""
+
+#: main/templates/main/base.html:91 main/templates/main/base.html.py:114
+msgid "Wiki"
+msgstr ""
+
+#: main/templates/main/base.html:97 main/templates/main/base.html.py:118
+msgid "Contact"
+msgstr ""
+
+#: main/templates/main/base.html:99 main/templates/main/base.html.py:119
+msgid "Support"
+msgstr ""
+
+#: main/templates/main/base.html:100 main/templates/main/base.html.py:120
+msgid "General Inquiries"
+msgstr ""
+
+#: main/templates/main/base.html:101 main/templates/main/base.html.py:121
+msgid "Investor Relations"
+msgstr ""
+
+#: main/templates/main/base.html:102 main/templates/main/base.html.py:122
+msgid "About"
+msgstr ""
+
+#: main/templates/main/base.html:103 main/templates/main/base.html.py:123
+msgid "Press &amp; Media Assets"
+msgstr ""
+
+#: main/templates/main/base.html:142
+msgid "Settings"
+msgstr ""
+
+#: main/templates/main/base.html:143
+msgid "Sign Out"
+msgstr ""
+
+#: main/templates/main/base.html:181
+msgid "Terms"
+msgstr ""
+
+#: main/templates/main/base.html:182
+msgid "Privacy"
+msgstr ""
+
+#: main/templates/main/base.html:183
+msgid "Brand"
+msgstr ""
+
+#: main/templates/main/base.html:186
+msgid "Back to top"
+msgstr ""
+
+#: main/templates/main/home.html:38
+msgid "Join The Quantum Revolution!"
+msgstr ""
+
+#: main/templates/main/home.html:39
+msgid ""
+"Qointum is an exciting new Quantum-Secure Trustless Smart Money powering "
+"Web&nbsp;3.0!"
+msgstr ""
+
+#: main/templates/main/home.html:41
+msgid ""
+"Claim your <span class=\"qoin-gold\">ℚ</span>oins in our <b>Crowdfunding "
+"Campaign</b>!"
+msgstr ""
+
+#: main/templates/main/home.html:42
+msgid "Sign Up Now"
+msgstr ""
+
+#: main/templates/main/home.html:44 main/templates/main/home.html.py:152
+msgid "Pledge Now"
+msgstr ""
+
+#: main/templates/main/home.html:53
+msgid "It's Quantum-Secure"
+msgstr ""
+
+#: main/templates/main/home.html:54
+msgid ""
+"Qointum is the first and only digital money to secure your value by "
+"employing cutting-edge cryptography that provides <b>security against "
+"quantum computers</b>."
+msgstr ""
+
+#: main/templates/main/home.html:55 main/templates/main/home.html.py:172
+#: main/templates/main/home.html:178
+msgid "View Details..."
+msgstr ""
+
+#: main/templates/main/home.html:63
+msgid "It's Smart"
+msgstr ""
+
+#: main/templates/main/home.html:64
+msgid ""
+"Qointum is the first and only digital money scripted in the popular language "
+"<b>Python</b>, enabling <b>smart&nbsp;contracts</b> and "
+"<b>decentralized&nbsp;applications</b>."
+msgstr ""
+
+#: main/templates/main/home.html:65 main/templates/main/home.html.py:75
+msgid "Learn More..."
+msgstr ""
+
+#: main/templates/main/home.html:73
+msgid "It's Powering Web&nbsp;3.0"
+msgstr ""
+
+#: main/templates/main/home.html:74
+msgid ""
+"Together with full web browser integration and our new web-scalable "
+"<b>Entangled&nbsp;Chains</b>, Qointum is powering the emerging "
+"cryptocurrency-native Web&nbsp;3.0."
+msgstr ""
+
+#: main/templates/main/home.html:124
+msgid "Crowdfunding Progress"
+msgstr ""
+
+#: main/templates/main/home.html:127
+msgid "Total <span class=\"qoin-gold\">ℚ</span>oins Rewarded:"
+msgstr ""
+
+#: main/templates/main/home.html:130
+msgid "exodus history"
+msgstr ""
+
+#: main/templates/main/home.html:136
+msgid "Your Reward:"
+msgstr ""
+
+#: main/templates/main/home.html:139
+msgid "Pledge History"
+msgstr ""
+
+#: main/templates/main/home.html:139
+msgid "pledge history"
+msgstr ""
+
+#: main/templates/main/home.html:143
+msgid "pledge"
+msgstr ""
+
+#: main/templates/main/home.html:143
+msgid "reward"
+msgstr ""
+
+#: main/templates/main/home.html:158
+msgid ""
+"To pledge, send any amount of <b><a href=\"https://www.coinbase.com\" target="
+"\"_blank\">Bitcoin</a></b> to this address:"
+msgstr ""
+
+#: main/templates/main/home.html:160
+msgid "Campaign Details..."
+msgstr ""
+
+#: main/templates/main/home.html:170
+msgid "Instant Confirmation"
+msgstr ""
+
+#: main/templates/main/home.html:171
+msgid ""
+"Qointum is ready to handle everyday mobile payments as our new decentralized "
+"security technology enables transactions to be confirmed instantly."
+msgstr ""
+
+#: main/templates/main/home.html:176
+msgid "Low Transaction Fees"
+msgstr ""
+
+#: main/templates/main/home.html:177
+msgid ""
+"The Qointum network employs our new <b>Queued&nbsp;Delegated&nbsp;Proof-of-"
+"Stake</b> technology to achieve decentralized consensus using only a "
+"fraction of the electricity consumed by other cryptocurrencies, so our users "
+"enjoy a high-frequency value exchange with low transaction fees."
+msgstr ""
+
+#: main/templates/main/home.html:182
+msgid "Develop Rapidly"
+msgstr ""
+
+#: main/templates/main/home.html:183
+msgid ""
+"Publish your own <b>Qointracts</b> on the Qointum blockchain, embed "
+"<b>Qoinapps</b> in your own website, or start your own <b>Entangled&nbsp;"
+"Chains</b> on the Qointum network -- all from your preferred IDE using "
+"familiar technologies such as Python, HTML5 and JavaScript."
+msgstr ""
+
+#: main/templates/main/home.html:184
+msgid "Download"
+msgstr ""
+
+#: main/templates/main/home.html:198
+msgid "It's Trustless."
+msgstr ""
+
+#: main/templates/main/home.html:198
+msgid "Take control of your money and protect your stored value."
+msgstr ""
+
+#: main/templates/main/home.html:199
+msgid ""
+"Qointum is a <b>decentralized</b> digital money known as a "
+"<b>cryptocurrency</b>, anyone with a home computer can join the Qointum "
+"network to help verify transactions, and all computers operate using the "
+"same rules written in machine code."
+msgstr ""
+
+#: main/templates/main/home.html:200
+msgid ""
+"Qointum is also <b>transparent</b>, anyone can read the machine code rules "
+"that govern it and everyone knows the total amount of money in existence, "
+"ensuring that money can not be arbitrarily created at the whim of officials "
+"behind closed doors."
+msgstr ""
+
+#: main/templates/main/home.html:201
+msgid ""
+"With a Qointum wallet <b>you are in full control</b>, your account can never "
+"be frozen by authorities or become unavailable due to bank insolvency."
+msgstr ""
+
+#: main/templates/main/home.html:214
+msgid "It's Smart."
+msgstr ""
+
+#: main/templates/main/home.html:214
+msgid "Make your money work for you."
+msgstr ""
+
+#: main/templates/main/home.html:215
+msgid ""
+"Qointum is the first and only cryptocurrency scripted in the popular "
+"language <b>Python</b>, meaning it’s truly programmable money capable of "
+"<b>smart&nbsp;contracts</b>, which are trustless automated rules that govern "
+"relationships between parties. These scripts we call <b>Qointracts</b> can "
+"be as simple as \"if you send me ℚ1 today, I'll send you ℚ2 tomorrow\", or "
+"as complex as <b>decentralized&nbsp;autonomous&nbsp;corporations</b>."
+msgstr ""
+
+#: main/templates/main/home.html:216
+msgid ""
+"By leveraging Python, Qointum is tapping into <b>a developer base of "
+"millions</b> of skilled professionals and an endless variety of third-party "
+"financial and mathematical libraries. These libraries provide sophisticated "
+"solvers such as neural networks that can process real-world data, creating "
+"<b>smart&nbsp;oracles</b> and <b>prediction&nbsp;markets</b>."
+msgstr ""
+
+#: main/templates/main/home.html:217
+msgid "What will you build with Qointum?"
+msgstr ""
+
+#: main/templates/main/home.html:233
+msgid "Simple Asset Transaction"
+msgstr ""
+
+#: main/templates/main/home.html:261
+msgid "Basic Account"
+msgstr ""
+
+#: main/templates/main/home.html:327
+msgid "It's Powering Web 3.0."
+msgstr ""
+
+#: main/templates/main/home.html:327
+msgid "Get on board with the new Web!"
+msgstr ""
+
+#: main/templates/main/home.html:328
+msgid ""
+"Together with full web browser integration and our new web-scalable "
+"<b>Entangled&nbsp;Chains</b> technology which can be described as "
+"decentralized interconnected databases, Qointum is powering the emerging "
+"privacy-centric and <b>cryptocurrency-native&nbsp;Web&nbsp;3.0</b>."
+msgstr ""
+
+#: main/templates/main/home.html:329
+msgid ""
+"Tap into the expansive Qointum economy by issuing your own entangled asset "
+"for your business and embedding trustless <b>Qoinapps</b> into your website, "
+"facilitating <b>microtransactions</b> with your users."
+msgstr ""
+
+#: main/templates/main/home.html:330
+msgid ""
+"Then fully embrace Web 3.0 and unleash the power of the blockchain with "
+"<b>QHTTP</b>, serving your entire website over a decentralized peer-to-peer "
+"network."
+msgstr ""
+
+#: main/templates/main/home.html:366
+msgid "In The Press"
+msgstr ""
+
+#: main/templates/main/home.html:395
+msgid "Wallpapers"
+msgstr ""
+
+#: main/templates/main/home.html:396
+msgid "Wallpaper License"
+msgstr ""
+
+#: main/templates/main/home.html:400
+msgid "License"
+msgstr ""
+
+#: main/templates/main/home.html:416
+msgid "Medium"
+msgstr ""
+
+#: main/templates/main/home.html:425
+msgid "Large"
+msgstr ""
+
+#: main/templates/main/home.html:434
+msgid "Huge"
+msgstr ""
+
+#: main/templates/main/home.html:463
+msgid "Early Backer Bonus:"
+msgstr ""
+
+#: main/templates/main/home.html:464
+msgid "next in..."
+msgstr ""
+
+#: main/templates/main/home.html:467
+msgid ""
+"I agree to Qointum\\'s <a href=\"{}\" target=\"_blank\">Terms of "
+"Crowdfunding</a>"
+msgstr ""
+
+#: main/templates/main/home.html:471
+msgid "Strong Backer Bonus:"
+msgstr ""
+
+#: main/templates/main/home.html:472
+msgid "In order to participate, you must agree to these terms."
+msgstr ""
+
+#: main/templates/main/home.html:473
+msgid "Date"
+msgstr ""
+
+#: main/templates/main/home.html:474
+msgid "per"
+msgstr ""
+
+#: main/templates/main/home.html:475
+msgid "Bonus"
+msgstr ""
+
+#: main/templates/main/home.html:476
+msgid "Reward"
+msgstr ""
+
+#: main/templates/main/home.html:477
+msgid "Total"
+msgstr ""
