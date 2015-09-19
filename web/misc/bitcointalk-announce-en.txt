@@ -1,0 +1,73 @@
+[center]
+[img]https://i.imgur.com/xQTsHm7.png[/img]
+
+[size=20pt][b]Quantum-Secure Trustless Smart Money powering Web 3.0[/b][/size]
+
+
+
+[size=14pt][url=https://qointum.com][b]QOINTUM.COM[/b][/url] - Our Crowdfunding Campaign is now live![/size]
+
+[b]Blog[/b]: [url=https://blog.qointum.com]blog.qointum.com[/url]
+
+[b]Forum[/b]: [url=https://forum.qointum.com]forum.qointum.com[/url]
+
+[b]Wiki[/b]: [url=https://wiki.qointum.com]wiki.qointum.com[/url]
+
+[size=14pt]Check out our [url=https://wiki.qointum.com/design/dev/][b]Design Document[/b][/url][/size]
+
+Follow us on [url=https://twitter.com/Qointum][b]Twitter[/b][/url]
+
+Follow us on [url=https://www.facebook.com/Qointum][b]Facebook[/b][/url]
+
+Subscribe to our [url=https://www.reddit.com/r/qointum][b]Subreddit[/b][/url]
+[/center]
+
+
+[size=16pt][b]Brief Overview for Crypto Enthusiasts[/b][/size]
+
+[b][color=#8A6D3B]Qointum[/color][/b] can be simply described by imagining "Ethereum 3.0", it is an improved [b][color=#31708F]decentralized shared-state Turing machine[/color][/b] with a precise economic model of CPU cycles and storage bytes. The most significant improvements are that Qointum employs cutting-edge cryptography that is [b][color=#8A6D3B]secure against quantum computers[/color][/b], its [b][color=#8A6D3B]smart contracts[/color][/b] are scripted in [b][color=#31708F]Python[/color][/b] which is a far more flexible language used by millions of developers, and it is web-scalable thanks to its light-weight decentralized security [b][color=#8A6D3B]Queued Delegated Proof-of-Stake[/color][/b] paired with [b][color=#8A6D3B]Entangled Chains[/color][/b] which enable seamless interaction between contracts across multiple blockchains. The Qointum platform is unrivaled in its ability to host and accelerate the development of new cryptocurrencies, decentralized applications, and decentralized websites.
+
+
+[size=16pt][b]Overview[/b][/size]
+
+[b][color=#8A6D3B]Qointum[/color][/b] is an exciting new [b][color=#8A6D3B]Quantum-Secure Trustless Smart Money powering Web 3.0[/color][/b]. Secure and trustless digital money like Qointum is known as [b][color=#31708F]cryptocurrency[/color][/b]. 
+
+Qointum is trustless because it is [b][color=#31708F]decentralized[/color][/b], anyone with a home computer can join the Qointum network to help verify transactions of digital money, and all computers operate using the same rules written in machine code. Qointum is also [b][color=#31708F]transparent[/color][/b], anyone can read the machine code rules that govern it and everyone knows the total amount of money and credit in existence, ensuring that money can not be arbitrarily created at the whim of officials behind closed doors. With a Qointum wallet [b][color=#31708F]you are in full control[/color][/b], your account can never be frozen by authorities or become unavailable due to bank insolvency.
+
+Today, research laboratories around the world are racing to build the first practical quantum computer, and simple quantum computers already exist in university labs. A fully capable quantum computer is theorized to be able to crack the elliptic curve cryptography (ECC) that is protecting the stored value owned by users of other cryptocurrencies. Qointum is the first and only cryptocurrency to employ cutting-edge cryptography that is designed to be [b][color=#8A6D3B]secure against quantum computers[/color][/b] as well as classical computers, thus protecting the stored value owned by Qointum users for practically eternity.
+
+Qointum also seeks to bring [b][color=#31708F]next-generation Cryptocurrency 2.0[/color][/b] features and solve challenges facing other cryptocurrencies in order to establish Qointum as the leading currency in this globally-connected lightning-fast digital age. The Qointum network provides light-weight decentralized security through [b][color=#8A6D3B]Queued Delegated Proof-of-Stake[/color][/b] which uses only a fraction of the electricity consumed by other cryptocurrencies, so Qointum users enjoy a high-frequency value exchange with [b][color=#8A6D3B]low transaction fees[/color][/b]. Qointum is also ready to handle everyday mobile payments as the network provides [b][color=#8A6D3B]Instant Transaction Confirmation[/color][/b].
+
+Qointum is also the first and only cryptocurrency to be scripted in the popular language [b][color=#31708F]Python[/color][/b] which is used by millions of skilled developers worldwide. It's truly programmable money capable of [b][color=#8A6D3B]smart contracts[/color][/b], which are trustless automated rules that govern relationships between parties. Together with full web browser integration and Qointum's new web-scalable [b][color=#8A6D3B]Entangled Chains[/color][/b] technology which can be described as decentralized databases interconnected through programmable money, Qointum is powering the emerging privacy-centric and [b][color=#31708F]cryptocurrency-native Web 3.0[/color][/b].
+
+
+[size=16pt][b]Features[/b][/size]
+
+[list]
+[li][b][color=#8A6D3B]Qointum[/color][/b] is developed from scratch in the world-class blazing-fast language [b][color=#31708F]C++[/color][/b][/li]
+[li]the first and only cryptocurrency based on [b][color=#8A6D3B]Post-Quantum Cryptography[/color][/b], provides 128-bit level security against quantum computer attacks[/li]
+[li]Qointum is a [b][color=#31708F]decentralized shared-state Turing machine[/color][/b] controlled by [b][color=#8A6D3B]Transaqoins[/color][/b] and [b][color=#8A6D3B]Qointracts[/color][/b] which are trustless automated rules that govern relationships between parties[/li]
+[li]the first and only cryptocurrency scripted in the popular language [b][color=#31708F]Python[/color][/b], the [b][color=#8A6D3B]Qointum SDK[/color][/b] enables developers to use their preferred Python IDE to create and distribute transaqoins and qointracts[/li]
+[li]web browser-based [b][color=#8A6D3B]Qoinapps[/color][/b] with a [b][color=#31708F]JavaScript[/color][/b] API enables web developers to create decentralized applications[/li]
+[li]web browser plugin [b][color=#8A6D3B]QHTTP[/color][/b] serves entire websites over a decentralized peer-to-peer blockchain network[/li]
+[li]new light-weight decentralized security algorithm [b][color=#8A6D3B]Queued Delegated Proof-of-Stake[/color][/b] that schedules delegates randomly ahead of time enabling network optimization[/li]
+[li]new light-weight consensus heuristic [b][color=#8A6D3B]Maximally Vetted Delegate Chain[/color][/b] that enables light clients to perform [b][color=#8A6D3B]Simplified State Verification[/color][/b][/li]
+[li][b][color=#8A6D3B]Instant Transaction Confirmation[/color][/b] by means of a consensus heuristic based on delegate voting[/li]
+[li]new web-scalable [b][color=#8A6D3B]Entangled Chains[/color][/b] that enable [b][color=#31708F]Web 3.0 decentralized encrypted services[/color][/b] such as a social network, or redundant storage, or government-issued digital currency[/li]
+[li]assets such as [b][color=#8A6D3B]ℚoin[/color][/b] use [b][color=#31708F]arbitrary precision arithmetic[/color][/b] so they can be divided into infinitesimal pieces[/li]
+[li]stakeholders rewarded with [b][color=#8A6D3B]5% annual stake interest[/color][/b] and benefit from payments made for the [b][color=#8A6D3B]Qointum Pro License[/color][/b][/li]
+[li][b][color=#8A6D3B]decentralized governance[/color][/b] enables adaptive inflation, and polls make binding decisions within the Qointum community[/li]
+[li]new [b][color=#8A6D3B]blockdag[/color][/b] secure data structure, a graph of blocks enables branch merging and faster convergence of consensus[/li]
+[li]new decentralized messaging network [b][color=#8A6D3B]Ensemble[/color][/b] using post-quantum cryptography to enable private communication and stealth payments[/li]
+[/list]
+
+
+
+[center]
+[size=16pt][b]Wallpapers[/b][/size]
+
+[url=https://i.imgur.com/vcRpPeR.png][img]https://i.imgur.com/ZgE8AjB.jpg[/img][/url]           [url=https://i.imgur.com/XWKCfIX.png][img]https://i.imgur.com/lcamh7P.jpg[/img][/url]
+[/center]
+
+
+
